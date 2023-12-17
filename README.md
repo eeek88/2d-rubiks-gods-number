@@ -9,6 +9,8 @@ Starting from an initial scrambled position, the goal is move each rotation poin
 ![Example move](move1.png)
 ![Example move](move2.png)
 
+Solved state:
+![Solved state](solution.png)
 
 
 <b>Combinatorics</b>
