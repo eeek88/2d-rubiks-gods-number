@@ -1,7 +1,7 @@
 # 2d-rubiks-cube-gods-number
 
 <b>Introduction</b>
-The Rubik's cube is an extensively studied game -- lesser known, however, are its two dimensional counterparts. In this project, we investigate the combinatorics of, and compute the God's Number to a Rubik's like game in its 3x3 variants.
+The Rubik's cube is an extensively studied game -- lesser known, however, are its two dimensional counterparts. In this project, we investigate the combinatorics of, and compute the God's Number to a Rubik's like game in its 3x3 variant, and provide a partial solution to the 4x4 variant.
 
 <b>How to play</b>
 Starting from an initial scrambled position, the goal is move each rotation point clockwise until the board is in its solved state of 3 reds in row 1, 3 greens in row 2 and 3 blues in row 3. 
