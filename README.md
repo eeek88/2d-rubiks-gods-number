@@ -10,6 +10,7 @@ Starting from an initial scrambled position, the goal is move each rotation poin
 ![Example move](move2.png)
 
 Solved state:
+
 ![Solved state](solution.png)
 
 
